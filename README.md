@@ -1,2 +1,2 @@
-### Hi there 👋
-   [![My languages](https://github-stats-evirunurm.vercel.app/api/langauges.js?username=Asimendi)](https://github.com/evirunurm/github-stats)
+### Hi! 🐢
+   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=Asimendi&peng=false)](https://github.com/evirunurm/github-stats)
